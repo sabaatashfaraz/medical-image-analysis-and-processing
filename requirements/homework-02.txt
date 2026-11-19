@@ -1,0 +1,9 @@
+-r base.txt
+opencv-python
+scipy
+scikit-image
+PyWavelets
+bm3d
+torch
+torchvision
+Pillow

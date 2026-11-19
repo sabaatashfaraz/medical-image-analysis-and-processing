@@ -1,0 +1,6 @@
+-r base.txt
+pandas
+opencv-python
+pydicom
+scipy
+scikit-image

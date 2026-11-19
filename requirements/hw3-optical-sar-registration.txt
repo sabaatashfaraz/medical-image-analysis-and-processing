@@ -1,0 +1,4 @@
+-r base.txt
+SimpleITK
+opencv-python
+Pillow

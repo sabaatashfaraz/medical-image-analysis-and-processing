@@ -1,0 +1,10 @@
+-r base.txt
+opencv-python
+Pillow
+scipy
+torch
+torchvision
+git+https://github.com/facebookresearch/segment-anything.git
+supervision
+roboflow
+dataclasses-json

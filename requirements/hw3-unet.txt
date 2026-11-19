@@ -1,0 +1,4 @@
+-r base.txt
+tensorflow
+tensorflow-datasets
+git+https://github.com/tensorflow/examples.git
